@@ -12,7 +12,7 @@ If you don't want BepInEx to work with the workshop you can do up to step 8 and 
 
 ## Limitations
 At the moment the mod replaces all instances of the color for all items that use the same material.<br>
-From what I can tell the game uses animation clips to set the color of objects based on the interactable states. However, the current game engine version (2021.2.3) doesn't support editing the animation bindings at runtime and setting the material in animation events don't work from my experiment. If the game ever updates it's engine version I will revisit the mod to add support for coloring individual items.
+From what I can tell the game uses animation clips to set the materials of objects based on the interactable states. However, the current game engine version (2021.2.3) doesn't support editing the animation bindings at runtime and setting the material in animation events don't work from my experiment. If the game ever updates it's engine version I will revisit the mod to add support for coloring individual items.
 
 ## Resources
 * [Bang Wong color scheme](https://twitter.com/bangwong/status/492662880760655873?lang=en)
