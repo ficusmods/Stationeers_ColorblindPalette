@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ColorblindConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ColorSwaps>
+    <ColorSwapData>
+      <ColorNameOriginal>Green</ColorNameOriginal>
+      <EmissionIntensity>2.1</EmissionIntensity>
+      <EmissionColor>
+          <R>0.057</R>
+          <G>0.496</G>
+          <B>0.908</B>
+      </EmissionColor>
+      <TextureNew>green_wong</TextureNew>
+    </ColorSwapData>
+    <ColorSwapData>
+      <ColorNameOriginal>Yellow</ColorNameOriginal>
+      <EmissionIntensity>1.4</EmissionIntensity>
+      <EmissionColor>
+          <R>0.941</R>
+          <G>0.898</G>
+          <B>0.306</B>
+      </EmissionColor>
+      <TextureNew>yellow_wong</TextureNew>
+    </ColorSwapData>
+    <ColorSwapData>
+      <ColorNameOriginal>Red</ColorNameOriginal>
+      <EmissionIntensity>2.1</EmissionIntensity>
+      <EmissionColor>
+          <R>1.000</R>
+          <G>0.522</G>
+          <B>0.086</B>
+      </EmissionColor>
+      <TextureNew>red_wong</TextureNew>
+    </ColorSwapData>
+  </ColorSwaps>
+</ColorblindConfig>
