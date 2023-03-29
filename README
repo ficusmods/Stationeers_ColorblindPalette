@@ -12,5 +12,5 @@ At the moment the mod replaces all instances of the color for all items that use
 From what I can tell, the game uses animation clips to set the color of objects based on the interactable states. However, the current game engine version (2021.2.3) doesn't support editing the animation bindings at runtime and setting the material in animation events don't work from my experiment. If the game ever updates it's engine version I will revisit the mod to add support for coloring individual items.
 
 ## Resources
-[Bang Wong colorscheme](https://twitter.com/bangwong/status/492662880760655873?lang=en)
+[Bang Wong color scheme](https://twitter.com/bangwong/status/492662880760655873?lang=en)
 [Coloring for Colorblindness](https://davidmathlogic.com/colorblind/#%23000000-%23E69F00-%2356B4E9-%23009E73-%23F0E442-%230072B2-%23D55E00-%23CC79A7)
